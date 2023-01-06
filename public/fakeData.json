@@ -1,0 +1,32 @@
+[
+    {
+        "image":"https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/Article+Image+Update/Running/brisk+walk/carousel.jpg",
+        "name":"Walking",
+        "timeRequired":10
+    },
+    {
+        "image":"https://www.kreedon.com/wp-content/uploads/2019/06/athletics-Kreedon-1200x900.jpg",
+        "name":"Athletics",
+        "timeRequired":15
+    },
+    {
+        "image":"https://sportsmatik.com/uploads/matik-sports-corner/matik-know-how/dancesport_1592394763.jpg",
+        "name":"Dance sports",
+        "timeRequired":20
+    },
+    {
+        "image":"https://www.rappler.com/tachyon/2022/05/carlos-yulo-sea-games-may-15-2022.jpg",
+        "name":"Dance",
+        "timeRequired":15
+    },
+    {
+        "image":"https://www.cricketvictoria.com.au/wp-content/uploads/2018/01/drills-continuous.png",
+        "name":"Continiue playing",
+        "timeRequired":10
+    },
+    {
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_640,q_50/lsci/db/PICTURES/CMS/346500/346541.6.png",
+        "name":"Team Rapid Fire",
+        "timeRequired":10
+    }
+]
